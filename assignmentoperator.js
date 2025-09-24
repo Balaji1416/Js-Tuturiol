@@ -3,13 +3,13 @@
 // Subraction
 // Division 
 // Multiplication */
-// let num = 56;
-// num += 20;
-// num -= 20;
-// num *= 20;
-// num /= 20;
-// num %= 20;
-// console.log(num);
+let num = 56;
+num += 20;
+num -= 20;
+num *= 20;
+num /= 20;
+num %= 20;
+console.log(num);
 
 // //Relational operators
 
